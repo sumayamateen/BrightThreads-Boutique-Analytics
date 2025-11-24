@@ -1,4 +1,4 @@
-# BrightThreads Boutique — Data Analytics Case Study  
+# BrightThreads Boutique Case Study  
 
 ![Excel](https://img.shields.io/badge/Excel-Data_Cleaning-green)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-Data_Analysis-blue)
