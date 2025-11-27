@@ -101,7 +101,7 @@ Demonstrates **data-driven decision-making**, predictive modeling, and business 
 
 ---
 
-**Conclusion:** 10% sales growth target confirmed achievable
+## Conclusion: 10% sales growth target confirmed achievable
 
 ---
 
